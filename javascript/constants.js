@@ -1,6 +1,6 @@
 const constants = {
 	// prices ---------------------------------------------------------------------
-	price_dingo: 4000,
+	price_dingo: 100,
 	price_colour : {
 		"Yellow" : 0,
 		"Black" : 1,

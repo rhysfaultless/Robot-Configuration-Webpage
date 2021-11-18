@@ -1,6 +1,11 @@
 # README—Robot Configuration Webpage</h1>
 <img src="/images/example_rcw.png" alt="example screenshot of the robot configuration webpage" width="800">
 
+## Try the Demo Here
+<a href="https://rhysfaultless.github.io/Robot-Configuration-Webpage/">https://rhysfaultless.github.io/Robot-Configuration-Webpage/</a>
+
+
+
 ## Overview
 This is a demonstration Build & Price tool for the Clearpath Robotics Dingo-O platform. 
 Users get to configure a Dingo-O with differnt sensors and see their robot in real time. 
