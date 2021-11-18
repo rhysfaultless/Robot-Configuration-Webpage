@@ -208,7 +208,7 @@ As mentioned earlier, the desktop computer is encryped since my personal email s
 - Reducing the file size of the 3D surcafe models to improve loading speed
 - Adding correct prices and lead-times
 - Consider the Wepbage architeture, so we can deploy this for other robots
-- Matching styling of <a href="https://clearpathrobotics.com/">clearpathrobotics.com</a> and consider using <a href="https://ant.design/">https://ant.design/</a>a></a>
+- Matching styling of <a href="https://clearpathrobotics.com/">clearpathrobotics.com</a> and consider using <a href="https://ant.design/">https://ant.design/</a>
 - Move from an in-house server running Apache to the deployment backend on AWS or similar
 - Consider methods to maintain and update the webpage: 
   - How to update component prices
