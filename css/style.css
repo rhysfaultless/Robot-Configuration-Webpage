@@ -1,0 +1,82 @@
+html, body {
+  height: 100%;
+  /*overflow: hidden;*/
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #000000;
+  text-align: center;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+section {
+  background-color: #ffffff;
+  position: relative;
+  display: inline-block;
+}
+
+.column-left {
+  float: left;
+  width: 35%;
+  padding: 0px 10px;
+}
+
+.column-right {
+  float: right;
+}
+
+#rotate-image {
+  position: absolute;
+  top: 8px;
+  right: 15px;
+  z-index: 1;
+}
+
+label {
+  float: left;
+}
+
+select {
+  float: right;
+  border: 1px solid transparent;
+}
+
+input {
+  float: right;
+  border-radius: 4px;
+  border-color: #000000;
+  border-width: 1px;
+}
+
+select:hover {
+  filter: brightness(90%);
+}
+
+.column-left #price_on_page {
+  float: right;
+  display: block;
+}
+
+.column-left #lead_time_on_page {
+  float: left;
+}
+
+button {
+  background-color: #ffd500;
+  float: right;
+  border: none;
+  font-size: 15px;
+  border-radius: 15px;
+  padding: 8px 13px;
+}
+
+#logo:hover {
+  filter: brightness(80%);
+}
+
+button:hover {
+  background-color: #F0C700;
+}
