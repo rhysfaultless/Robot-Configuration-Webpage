@@ -2,7 +2,7 @@
 <img src="/images/example_rcw.png" alt="example screenshot of the robot configuration webpage" width="800">
 
 ## Try the Demo Here
-<a href="https://rhysfaultless.github.io/Robot-Configuration-Webpage/">https://rhysfaultless.github.io/Robot-Configuration-Webpage/</a>
+<a href="https://rhysfaultless.github.io/robot-configuration-webpage/">https://rhysfaultless.github.io/robot-configuration-webpage/</a>
 
 
 
@@ -155,7 +155,7 @@ Once <em>doc</em> has been configured, a PDF is generated on the User's computer
 Since this is all performed with Javascript, it is all run on the User's computer, and can be run without an internet connection if all the files are cached in the User's browser. 
 This is an important note for any Backend work to be done, related to internet connection issues and security.
 
-### 8. CSS style
+### 8. Technical - CSS style
 The page is separated into three sections:
 - header
 - div for left column
